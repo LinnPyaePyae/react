@@ -1,5 +1,6 @@
-@media (max-width: 700px) {
-  .logoname {
+@media (max-width: 600px) {
+  .logoname,
+  .fork {
     display: none;
   }
   .navbar {
@@ -11,7 +12,7 @@
   }
 
   .input {
-    width: 120px;
+    width: 110px;
   }
   .heroimage {
     display: none;

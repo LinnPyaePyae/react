@@ -19,7 +19,7 @@ const Navbar = () => {
       <div className="flex justify-around items-center p-3 mt-0 bg-[#f3f4f6] lg:fixed lg:top-0  lg:w-full  lg:z-10 lg:mb-10 navbar">
         <div className="flex">
           <NavLink to="/" className="active">
-            <GiKnifeFork className="text-3xl text-orange-500 mr-2"></GiKnifeFork>
+            <GiKnifeFork className="fork text-3xl text-orange-500 mr-2"></GiKnifeFork>
           </NavLink>
 
           <h5 className="text-xl logoname">Omnifood</h5>
